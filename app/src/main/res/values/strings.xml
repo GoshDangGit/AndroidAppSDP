@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppV2</string>
+    <string name="gameID_prompt">Enter Custom Game ID</string>
+    <string name="button_join">Join</string>
+    <string name="main_title">Remote Cornhole</string>
+    <string name="button_create">Create</string>
+    <string name="create_random_gameID">Create Match\n(random ID)</string>
+</resources>
